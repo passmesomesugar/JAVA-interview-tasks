@@ -1,0 +1,22 @@
+
+
+
+
+
+}
+
+
+
+
+
+}
+}
+}
+
+
+throw new 
+} else if (numberOfCycles>100) {
+throw new 
+for (int i = 1;i <= numberOfCycles; i ++) {
+if (numberOfCycles<0) {
+if (i%2==0) {
